@@ -62,6 +62,9 @@ Revenue contribution of each pizza size (S, M, L, XL, XXL).
 Classify customers as High Value or Regular based on spend.
 20. Repeat Customer Rate
 Percentage of repeat customers versus one-time buyers.
+
+
+
 Key Findings
 Customer Behavior: High-value and repeat customers identified.
 Order Trends: Peak hours, weekends, and seasonal patterns discovered.
